@@ -405,4 +405,29 @@ class QuickSubmitOmpTest extends PKPTestCase
         $plugin->callbackBookPage('TemplateManager::display', [$templateMgr, 'frontend/pages/book.tpl']);
         $this->assertSame(['quickSubmitOmpEditedVolume'], $templateMgr->filters);
     }
+
+    public function testThePageGetsEveryFieldAndText(): void
+    {
+        // Built as the page builds it, for the first press of the installation, by its
+        // first site administrator.
+        $context = Application::getContextDAO()->getAll()->next();
+        $admin = \APP\facades\Repo::user()->getCollector()->filterByRoleIds([\PKP\security\Role::ROLE_ID_SITE_ADMIN])->getMany()->first();
+        \PKP\core\Registry::delete('user');
+        $this->mockRequest($context->getPath() . '/quickSubmitOmp/index', $admin->getId());
+        $plugin = new QuickSubmitOmpPlugin();
+        $plugin->register('generic', 'plugins/generic/quickSubmitOmp', $context->getId());
+        $handler = new \APP\plugins\generic\quickSubmitOmp\classes\QuickSubmitOmpHandler($plugin);
+        $config = (new \ReflectionMethod($handler, 'getPageConfig'))->invoke($handler, \APP\core\Application::get()->getRequest());
+
+        $this->assertSame(['text', 'select', 'options', 'richText', 'pdf', 'file', 'image'], array_keys($config['fields']));
+        $this->assertSame('field-upload', $config['fields']['pdf']['component']);
+        $this->assertSame('application/pdf', $config['fields']['pdf']['options']['acceptedFiles']);
+        $this->assertStringEndsWith('/temporaryFiles', $config['fields']['file']['options']['url']);
+        $this->assertStringContainsString('/quickSubmitOmp/save', $config['saveUrl']);
+        $this->assertSame([Submission::WORK_TYPE_EDITED_VOLUME, Submission::WORK_TYPE_AUTHORED_WORK], array_column($config['workTypes'], 'value'));
+        foreach ($config['i18n'] as $name => $text) {
+            $this->assertStringNotContainsString('##', $text, "The text {$name} is not translated.");
+        }
+        $this->assertNotEmpty($config['countries']);
+    }
 }

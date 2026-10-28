@@ -93,4 +93,19 @@ class PluginTest extends PKPTestCase
             }
         }
     }
+
+    public function testEveryImportedClassExists(): void
+    {
+        // A class imported for one method only fails when that method runs (a 500 on the
+        // page), never when the file is loaded.
+        $root = dirname(__DIR__);
+        $files = array_merge(glob($root . '/*.php'), glob($root . '/classes/*.php'));
+        $this->assertNotEmpty($files);
+        foreach ($files as $file) {
+            preg_match_all('/^use ([A-Za-z0-9_\\\\]+);/m', (string) file_get_contents($file), $m);
+            foreach ($m[1] as $class) {
+                $this->assertTrue(class_exists($class) || interface_exists($class) || trait_exists($class), basename($file) . " imports {$class}, which does not exist.");
+            }
+        }
+    }
 }

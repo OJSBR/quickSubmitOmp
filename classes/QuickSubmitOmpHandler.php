@@ -14,6 +14,7 @@
 namespace APP\plugins\generic\quickSubmitOmp\classes;
 
 use APP\facades\Repo;
+use APP\file\PublicFileManager;
 use APP\handler\Handler;
 use APP\plugins\generic\quickSubmitOmp\QuickSubmitOmpPlugin;
 use APP\submission\Submission;
@@ -27,7 +28,6 @@ use PKP\components\forms\FieldUploadImage;
 use PKP\core\JSONMessage;
 use PKP\core\PKPApplication;
 use PKP\core\PKPString;
-use PKP\file\PublicFileManager;
 use PKP\file\TemporaryFileManager;
 use PKP\security\authorization\ContextAccessPolicy;
 use Sokil\IsoCodes\IsoCodesFactory;

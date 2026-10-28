@@ -66,9 +66,10 @@
 				});
 			});
 			var authorOptions = vue.computed(function () {
-				return contributors.map(function (person) {
+				return contributors.map(function (person, i) {
 					var name = (person.givenName + ' ' + person.familyName).trim();
-					return {value: person.key, label: name || '…'};
+					// Unnamed yet: the role and the position, as on the page.
+					return {value: person.key, label: name || (c.roles[person.role] + ' ' + (i + 1))};
 				});
 			});
 
@@ -137,6 +138,25 @@
 			 * The props of a core field from its prototype. The name is the path of the
 			 * value, with dashes, so that the errors of the plugin land on it.
 			 */
+			/**
+			 * The core sends the texts of the dropzone as dropzoneDict* options, which the
+			 * dropzone does not read: they are given again under the names it reads.
+			 */
+			function dropzoneTexts(options) {
+				var texts = {};
+				Object.keys(options || {}).forEach(function (key) {
+					if (key.indexOf('dropzoneDict') === 0) {
+						texts['dict' + key.slice('dropzoneDict'.length)] = options[key];
+					}
+				});
+				return Object.assign({}, options, texts);
+			}
+			Object.keys(c.fields).forEach(function (prototype) {
+				if (c.fields[prototype].options && !Array.isArray(c.fields[prototype].options)) {
+					c.fields[prototype].options = dropzoneTexts(c.fields[prototype].options);
+				}
+			});
+
 			function field(prototype, name, value, extra) {
 				return Object.assign({}, c.fields[prototype], {
 					name: name,
