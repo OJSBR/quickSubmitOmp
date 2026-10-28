@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ro\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "Trimitere rapidă pentru OMP"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "Adaugă pe o singură pagină cartea, contributorii, capitolele cu PDF-ul lor și formatările finale, și o publică cu toate fișierele aprobate și în acces deschis. Într-un volum editat, metadatele cărții îi menționează doar pe editorii volumului, iar fiecare capitol, pe propriii autori."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "Trimitere rapidă"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "Trimiterea rapidă a unei cărți"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "Completați cartea, contributorii, capitolele și formatările finale, apoi salvați. Cartea trece direct în producție, cu toate formatările și fișierele aprobate și în acces deschis, și este publicată, cu excepția cazului în care debifați opțiunea de mai jos. Totul poate fi modificat ulterior în fluxul de lucru."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "Carte"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "Tipul cărții"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "Volum editat: editorii volumului și autorii capitolelor"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "Monografie: întreaga carte aparține acelorași autori"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "Colecție"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "Fără colecție"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "Poziția în colecție"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "Limba cărții"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "Separați cuvintele cheie prin virgule."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "Copertă"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "Data publicării"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "Editorii volumului și autorii"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "Sunt obligatorii doar prenumele și numele: adresa de e-mail și țara editurii sunt completate automat și pot fi modificate la Mai multe detalii. Într-un volum editat, în metadatele cărții sunt menționați doar editorii volumului; autorii capitolelor sunt menționați în capitolele lor."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "Adăugați un contributor"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "Rol"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "Editorul volumului"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "Autorul capitolului"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "Autor"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "Mai multe detalii"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "Mutați în sus"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "Mutați în jos"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "Capitole"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "Fiecare capitol are propria pagină, cu autorii și PDF-ul său. PDF-ul unui capitol este publicat în formatarea numită PDF de mai jos, care este creată automat dacă nu există."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "Adăugați un capitol"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "Capitolul {$number}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "Autorii capitolului"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "Adăugați contributorii de mai sus pentru a alege autorii capitolului."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "Pagini"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "PDF-ul final al capitolului"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "Formatările finale ale cărții"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "O formatare pentru fiecare fișier al întregii cărți (PDF, EPUB…), aprobată și în acces deschis."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "Adăugați o formatare"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "Numele formatării"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "Fișierul întregii cărți"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "Publicați acum"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "Dacă opțiunea nu este bifată, cartea este salvată în producție, gata de publicare din fluxul de lucru."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "Salvați cartea"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "Se salvează…"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "Cartea a fost publicată."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "Cartea a fost salvată în producție."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "Vedeți cartea în catalog"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "Deschideți fluxul de lucru"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "Altă trimitere rapidă"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "Unele câmpuri trebuie corectate."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "Cartea nu a putut fi salvată și nu a rămas nimic în urmă. Încercați din nou sau anunțați asistența tehnică a editurii."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "Alegeți o colecție a acestei edituri."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "Introduceți o dată în formatul YYYY-MM-DD."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "Fișierul nu a fost găsit. Încărcați-l din nou."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "Coperta trebuie să fie o imagine."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "Adăugați cel puțin un contributor."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "Editura nu are un rol de autor pentru acest contributor. Verificați setările pluginului."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "Introduceți o adresă de e-mail: editura nu are niciuna pe care să o completeze."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "Alegeți o țară din listă."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "Acesta nu este un ID ORCID valid."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "Pagina a trimis un contributor de două ori. Reîncărcați-o și încercați din nou."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "Un volum editat are nevoie de cel puțin un editor al volumului."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "Un autor al capitolului nu se află printre contributori."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "Fișierul unui capitol trebuie să fie un PDF."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "Două formatări au același nume."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "Acesta nu este un ISBN-13 valid."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "Încărcați fișierul întregii cărți sau eliminați această formatare."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "Ce primește un contributor nou"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "Adresă de e-mail"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "Lăsați câmpul gol pentru a folosi contactul de asistență tehnică al editurii sau contactul principal al acesteia, atunci când nu există un contact de asistență tehnică."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "În uz acum: {$email}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "Țara"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "Lăsați câmpul gol pentru a folosi țara editurii."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "Roluri"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "Rolul de autor al editurii pe care îl primește fiecare contributor al trimiterii rapide."

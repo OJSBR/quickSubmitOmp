@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: nb_NO\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "Hurtiginnlevering for OMP"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "Legger inn boken, bidragsyterne, kapitlene med PDF og de endelige formatene på én side, og publiserer den med alle filer godkjent og i åpen tilgang. I et redigert verk nevner bokens metadata bare volumredaktørene, og hvert kapittel sine egne forfattere."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "Hurtiginnlevering"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "Hurtiginnlevering av bok"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "Fyll inn boken, bidragsyterne, kapitlene og de endelige formatene, og lagre. Boken går rett til produksjon med alle formater og filer godkjent og i åpen tilgang, og publiseres med mindre du fjerner avkryssingen nedenfor. Alt kan endres senere i arbeidsflyten."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "Bok"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "Type bok"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "Redigert verk: volumredaktører og kapittelforfattere"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "Monografi: hele boken av de samme forfatterne"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "Serie"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "Ingen serie"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "Plassering i serien"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "Bokens språk"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "Skill nøkkelordene med komma."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "Omslag"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "Publiseringsdato"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "Volumredaktører og forfattere"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "Bare fornavn og etternavn er påkrevd: e-postadressen og forlagets land fylles inn for deg, og kan endres under Flere detaljer. I et redigert verk nevnes bare volumredaktørene i bokens metadata; kapittelforfatterne nevnes i sine kapitler."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "Legg til bidragsyter"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "Rolle"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "Volumredaktør"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "Kapittelforfatter"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "Forfatter"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "Flere detaljer"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "Flytt opp"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "Flytt ned"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "Kapitler"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "Hvert kapittel får sin egen side, med forfattere og PDF. Kapittelets PDF publiseres i formatet som heter PDF nedenfor, og det opprettes for deg hvis det ikke finnes."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "Legg til kapittel"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "Kapittel {$number}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "Kapittelets forfattere"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "Legg til bidragsyterne ovenfor for å velge kapittelets forfattere."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "Sider"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "Endelig PDF av kapittelet"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "Bokens endelige formater"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "Ett format per fil av hele boken (PDF, EPUB…), godkjent og i åpen tilgang."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "Legg til format"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "Formatets navn"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "Fil med hele boken"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "Publiser nå"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "Uten avkryssing lagres boken i produksjon, klar til å publiseres fra arbeidsflyten."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "Lagre boken"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "Lagrer…"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "Boken ble publisert."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "Boken ble lagret i produksjon."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "Se boken i katalogen"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "Åpne arbeidsflyten"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "Ny hurtiginnlevering"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "Noen felt må rettes."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "Boken kunne ikke lagres, og ingenting ble liggende igjen. Prøv igjen, eller kontakt forlagets tekniske støtte."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "Velg en serie fra dette forlaget."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "Skriv inn en dato som ÅÅÅÅ-MM-DD."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "Filen ble ikke funnet. Last den opp på nytt."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "Omslaget må være et bilde."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "Legg til minst én bidragsyter."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "Forlaget har ingen forfatterrolle for denne bidragsyteren. Sjekk innstillingene for programtillegget."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "Skriv inn en e-postadresse: forlaget har ingen å fylle inn."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "Velg et land fra listen."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "Dette er ikke en gyldig ORCID iD."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "Siden sendte en bidragsyter to ganger. Last inn siden på nytt og prøv igjen."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "Et redigert verk trenger minst én volumredaktør."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "En av kapittelets forfattere er ikke blant bidragsyterne."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "Filen til et kapittel må være en PDF."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "To formater har samme navn."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "Dette er ikke et gyldig ISBN-13."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "Last opp filen med hele boken, eller fjern dette formatet."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "Hva en ny bidragsyter får"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "E-postadresse"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "La stå tomt for å bruke forlagets tekniske kontaktperson, eller kontaktpersonen når det ikke finnes noen teknisk kontaktperson."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "I bruk nå: {$email}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "Land"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "La stå tomt for å bruke forlagets land."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "Roller"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "Forlagets forfatterrolle som hver bidragsyter i hurtiginnleveringen får."

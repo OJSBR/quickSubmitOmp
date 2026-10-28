@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: hu\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "Gyorsbeküldés OMP-hez"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "Egyetlen oldalon felveszi a könyvet, a közreműködőit, a fejezeteit a PDF-jükkel és a végleges formátumait, majd minden fájlt jóváhagyva és nyílt hozzáféréssel közzéteszi. Szerkesztett kötetnél a könyv metaadataiban csak a kötetszerkesztők szerepelnek, minden fejezetnél pedig a saját szerzői."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "Gyorsbeküldés"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "Könyv gyorsbeküldése"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "Adja meg a könyvet, a közreműködőit, a fejezeteit és a végleges formátumait, majd mentsen. A könyv közvetlenül az előállításba kerül, minden formátum és fájl jóváhagyva és nyílt hozzáféréssel, és közzé is lesz téve, hacsak lent ki nem veszi a jelölést. Később a munkafolyamatban minden módosítható."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "Könyv"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "A könyv típusa"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "Szerkesztett kötet: kötetszerkesztők és fejezetszerzők"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "Monográfia: a teljes könyv ugyanazoktól a szerzőktől"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "Sorozat"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "Nincs sorozat"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "Helye a sorozatban"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "A könyv nyelve"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "A kulcsszavakat vesszővel válassza el."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "Borító"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "Közzététel dátuma"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "Kötetszerkesztők és szerzők"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "Csak az utónév és a családnév kötelező: az e-mail-címet és a kiadó országát a rendszer kitölti, és a További adatok alatt módosíthatók. Szerkesztett kötetnél a könyv metaadataiban csak a kötetszerkesztők szerepelnek; a fejezetszerzők a saját fejezetüknél."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "Közreműködő hozzáadása"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "Szerepkör"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "Kötetszerkesztő"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "Fejezet szerző"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "Szerző"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "További adatok"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "Feljebb"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "Lejjebb"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "Fejezetek"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "Minden fejezet saját oldalt kap a szerzőivel és a PDF-jével. A fejezet PDF-je a lent PDF néven szereplő formátumban jelenik meg, amelyet a rendszer létrehoz, ha még nincs ilyen."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "Fejezet hozzáadása"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "{$number}. fejezet"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "A fejezet szerzői"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "A fejezet szerzőinek kiválasztásához előbb adja meg fent a közreműködőket."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "Oldalak"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "A fejezet végleges PDF-je"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "A könyv végleges formátumai"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "A teljes könyv minden fájljához egy formátum (PDF, EPUB…), jóváhagyva és nyílt hozzáféréssel."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "Formátum hozzáadása"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "A formátum neve"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "A teljes könyv fájlja"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "Közzététel most"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "Ha nincs bejelölve, a könyv az előállításban mentődik, és a munkafolyamatból tehető közzé."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "A könyv mentése"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "Mentés…"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "A könyv közzé lett téve."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "A könyv az előállításban lett mentve."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "A könyv megtekintése a katalógusban"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "A munkafolyamat megnyitása"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "Újabb gyorsbeküldés"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "Néhány mezőt javítani kell."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "A könyvet nem sikerült menteni, és semmi sem maradt vissza belőle. Próbálja újra, vagy forduljon a kiadó technikai támogatásához."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "Válasszon a kiadó sorozatai közül."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "A dátumot ÉÉÉÉ-HH-NN formában adja meg."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "A fájl nem található. Töltse fel újra."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "A borítónak képnek kell lennie."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "Adjon meg legalább egy közreműködőt."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "A kiadónak nincs szerzői szerepköre ehhez a közreműködőhöz. Ellenőrizze a bővítmény beállításait."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "Adjon meg egy e-mail-címet: a kiadónál nincs kitölthető cím."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "Válasszon országot a listából."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "Ez nem érvényes ORCID azonosító."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "Az oldal kétszer küldött el egy közreműködőt. Töltse újra az oldalt, és próbálja újra."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "Szerkesztett kötethez legalább egy kötetszerkesztő szükséges."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "A fejezet egyik szerzője nem szerepel a közreműködők között."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "A fejezet fájljának PDF-nek kell lennie."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "Két formátumnak ugyanaz a neve."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "Ez nem érvényes ISBN-13."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "Töltse fel a teljes könyv fájlját, vagy távolítsa el ezt a formátumot."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "Amit egy új közreműködő kap"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "E-mail-cím"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "Hagyja üresen, hogy a kiadó technikai kapcsolattartója legyen használva, vagy a fő kapcsolattartó, ha nincs technikai kapcsolattartó."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "Jelenleg használt: {$email}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "Ország"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "Hagyja üresen, hogy a kiadó országa legyen használva."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "Szerepkörök"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "A kiadó szerzői szerepköre, amelyet a gyorsbeküldés minden közreműködője megkap."

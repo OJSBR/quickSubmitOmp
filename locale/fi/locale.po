@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: fi\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "Pikajulkaisu OMP:lle"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "Lisää kirjan, sen tekijät, luvut PDF-tiedostoineen ja lopulliset julkaisumuodot yhdellä sivulla ja julkaisee sen niin, että kaikki tiedostot on hyväksytty ja avoimesti saatavilla. Toimitetussa teoksessa kirjan metatiedoissa mainitaan vain niteen toimittajat ja kussakin luvussa sen omat kirjoittajat."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "Pikajulkaisu"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "Kirjan pikajulkaisu"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "Täytä kirjan tiedot, tekijät, luvut ja lopulliset julkaisumuodot ja tallenna. Kirja siirtyy suoraan tuotantoon niin, että kaikki julkaisumuodot ja tiedostot on hyväksytty ja avoimesti saatavilla, ja se julkaistaan, ellet poista valintaa alta. Kaikkea voi muuttaa myöhemmin työnkulussa."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "Kirja"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "Kirjan tyyppi"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "Toimitettu teos: niteen toimittajat ja lukujen kirjoittajat"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "Erillisteos: koko kirja samoilta kirjoittajilta"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "Sarja"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "Ei sarjaa"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "Sijainti sarjassa"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "Kirjan kieli"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "Erota avainsanat pilkuilla."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "Kansi"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "Julkaisupäivä"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "Niteen toimittajat ja kirjoittajat"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "Vain etunimi ja sukunimi ovat pakollisia: sähköposti ja julkaisijan maa täytetään puolestasi, ja niitä voi muuttaa kohdassa Lisätietoja. Toimitetussa teoksessa kirjan metatiedoissa mainitaan vain niteen toimittajat; lukujen kirjoittajat mainitaan omissa luvuissaan."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "Lisää tekijä"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "Rooli"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "Niteen toimittaja"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "Luvun kirjoittaja"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "Kirjoittaja"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "Lisätietoja"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "Siirrä ylös"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "Siirrä alas"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "Luvut"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "Jokainen luku saa oman sivunsa kirjoittajineen ja PDF-tiedostoineen. Luvun PDF julkaistaan alla olevassa PDF-nimisessä julkaisumuodossa, joka luodaan puolestasi, jos sellaista ei ole."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "Lisää luku"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "Luku {$number}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "Luvun kirjoittajat"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "Lisää tekijät yllä, jotta voit valita luvun kirjoittajat."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "Sivut"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "Luvun lopullinen PDF"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "Kirjan lopulliset julkaisumuodot"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "Yksi julkaisumuoto kutakin koko kirjan tiedostoa kohden (PDF, EPUB…), hyväksyttynä ja avoimesti saatavilla."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "Lisää julkaisumuoto"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "Julkaisumuodon nimi"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "Koko kirjan tiedosto"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "Julkaise heti"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "Jos valinta poistetaan, kirja tallennetaan tuotantoon valmiiksi julkaistavaksi työnkulusta."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "Tallenna kirja"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "Tallennetaan…"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "Kirja julkaistiin."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "Kirja tallennettiin tuotantoon."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "Näytä kirja luettelossa"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "Avaa työnkulku"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "Uusi pikajulkaisu"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "Joitakin kenttiä on korjattava."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "Kirjaa ei voitu tallentaa, eikä siitä jäänyt mitään jälkeen. Yritä uudelleen tai ota yhteyttä julkaisijan tekniseen tukeen."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "Valitse tämän julkaisijan sarja."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "Anna päivämäärä muodossa VVVV-KK-PP."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "Tiedostoa ei löytynyt. Lataa se uudelleen."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "Kannen on oltava kuva."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "Lisää vähintään yksi tekijä."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "Julkaisijalla ei ole tälle tekijälle kirjoittajaroolia. Tarkista lisäosan asetukset."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "Anna sähköpostiosoite: julkaisijalla ei ole sellaista täytettäväksi."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "Valitse maa luettelosta."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "Tämä ei ole kelvollinen ORCID iD."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "Sivu lähetti saman tekijän kahdesti. Lataa sivu uudelleen ja yritä uudelleen."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "Toimitetulla teoksella on oltava vähintään yksi niteen toimittaja."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "Yksi luvun kirjoittajista ei ole tekijöiden joukossa."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "Luvun tiedoston on oltava PDF."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "Kahdella julkaisumuodolla on sama nimi."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "Tämä ei ole kelvollinen ISBN-13."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "Lataa koko kirjan tiedosto tai poista tämä julkaisumuoto."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "Mitä uusi tekijä saa"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "Sähköpostiosoite"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "Jätä tyhjäksi, jos haluat käyttää julkaisijan teknisen tuen yhteyshenkilöä tai, jos sellaista ei ole, pääasiallista yhteyshenkilöä."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "Nyt käytössä: {$email}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "Maa"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "Jätä tyhjäksi, jos haluat käyttää julkaisijan maata."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "Roolit"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "Julkaisijan kirjoittajarooli, jonka kukin pikajulkaisun tekijä saa."

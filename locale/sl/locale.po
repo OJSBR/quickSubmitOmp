@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: sl\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "Hitri vnos za OMP"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "Na eni strani doda knjigo, sodelujoče, poglavja z njihovimi PDF-ji in končne formate ter jo objavi z vsemi datotekami odobrenimi in v odprtem dostopu. V zborniku so v metapodatkih knjige navedeni samo uredniki zbornika, v vsakem poglavju pa njegovi avtorji."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "Hitri vnos"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "Hitri vnos knjige"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "Izpolnite podatke o knjigi, sodelujočih, poglavjih in končnih formatih ter shranite. Knjiga gre neposredno v produkcijo z vsemi formati in datotekami odobrenimi in v odprtem dostopu ter je objavljena, razen če spodaj odstranite kljukico. Vse lahko pozneje spremenite v delovnem toku."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "Knjiga"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "Vrsta knjige"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "Zbornik: uredniki zbornika in avtorji poglavij"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "Monografska publikacija: celotna knjiga istih avtorjev"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "Zbirka"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "Brez zbirke"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "Mesto v zbirki"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "Jezik knjige"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "Ključne besede ločite z vejicami."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "Naslovnica"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "Datum objave"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "Uredniki zbornika in avtorji"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "Obvezna sta samo ime in priimek: e-poštni naslov in država založbe se izpolnita samodejno in ju lahko spremenite pod Več podrobnosti. V zborniku so v metapodatkih knjige navedeni samo uredniki zbornika; avtorji poglavij so navedeni v svojih poglavjih."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "Dodaj sodelujočega"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "Vloga"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "Urednik zbornika"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "Avtor poglavja"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "Avtor"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "Več podrobnosti"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "Premakni gor"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "Premakni dol"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "Poglavja"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "Vsako poglavje dobi svojo stran z avtorji in PDF-jem. PDF poglavja je objavljen v spodnjem formatu z imenom PDF, ki se ustvari samodejno, če ga ni."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "Dodaj poglavje"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "Poglavje {$number}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "Avtorji poglavja"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "Zgoraj dodajte sodelujoče, da boste lahko izbrali avtorje poglavja."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "Strani"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "Končni PDF poglavja"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "Končni formati knjige"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "En format za vsako datoteko celotne knjige (PDF, EPUB…), odobren in v odprtem dostopu."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "Dodaj format"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "Ime formata"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "Datoteka celotne knjige"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "Objavi zdaj"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "Če kljukica ni izbrana, se knjiga shrani v produkcijo in je pripravljena za objavo iz delovnega toka."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "Shrani knjigo"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "Shranjevanje…"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "Knjiga je bila objavljena."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "Knjiga je bila shranjena v produkcijo."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "Oglejte si knjigo v katalogu"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "Odpri delovni tok"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "Nov hitri vnos"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "Nekatera polja je treba popraviti."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "Knjige ni bilo mogoče shraniti in nič ni ostalo za njo. Poskusite znova ali obvestite tehnično podporo založbe."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "Izberite zbirko te založbe."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "Vnesite datum v obliki YYYY-MM-DD."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "Datoteke ni bilo mogoče najti. Ponovno jo naložite."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "Naslovnica mora biti slika."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "Dodajte vsaj enega sodelujočega."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "Založba nima avtorske vloge za tega sodelujočega. Preverite nastavitve vtičnika."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "Vnesite e-poštni naslov: založba nima nobenega, ki bi ga lahko izpolnila."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "Izberite državo s seznama."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "To ni veljaven ORCID ID."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "Stran je istega sodelujočega poslala dvakrat. Ponovno jo naložite in poskusite znova."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "Zbornik potrebuje vsaj enega urednika zbornika."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "Eden od avtorjev poglavja ni med sodelujočimi."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "Datoteka poglavja mora biti PDF."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "Dva formata imata enako ime."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "To ni veljaven ISBN-13."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "Naložite datoteko celotne knjige ali odstranite ta format."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "Kaj dobi nov sodelujoči"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "E-poštni naslov"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "Pustite prazno, če želite uporabiti kontakt za podporo založbe ali njen glavni kontakt, kadar kontakta za podporo ni."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "Trenutno v uporabi: {$email}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "Država"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "Pustite prazno, če želite uporabiti državo založbe."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "Vloge"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "Avtorska vloga založbe, ki jo dobi vsak sodelujoči pri hitrem vnosu."

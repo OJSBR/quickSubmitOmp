@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: zh_Hans\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "OMP 快速投稿"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "在一个页面上添加图书、其贡献者、各章节及其 PDF 以及最终格式，并在所有文件均已批准且开放获取的状态下出版。在编著图书中，图书元数据只列出卷编辑，每一章列出各自的作者。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "快速投稿"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "图书快速投稿"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "填写图书、贡献者、章节和最终格式，然后保存。图书将直接进入生产阶段，所有格式和文件均已批准且开放获取；除非您取消勾选下方选项，否则图书将被出版。所有内容之后都可以在工作流程中修改。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "图书"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "图书类型"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "编著图书：卷编辑和章节作者"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "专著：全书由相同的作者撰写"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "丛书"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "不属于丛书"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "在丛书中的位置"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "图书语言"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "用逗号分隔关键词。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "封面"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "出版日期"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "卷编辑和作者"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "只需填写名字和姓氏：电子邮件和出版社所在国家会自动填写，并可在“更多详情”中修改。在编著图书中，图书元数据只列出卷编辑；章节作者列在各自的章节中。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "添加贡献者"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "角色"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "卷编辑"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "章节作者"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "作者"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "更多详情"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "上移"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "下移"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "章节"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "每一章都有自己的页面，包含其作者和 PDF。章节的 PDF 以下方名为 PDF 的格式出版；如果没有该格式，将自动创建。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "添加章节"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "第 {$number} 章"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "章节作者"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "请先在上方添加贡献者，再选择章节作者。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "页码"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "章节的最终 PDF"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "图书的最终格式"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "全书的每个文件对应一种格式（PDF、EPUB…），已批准且开放获取。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "添加格式"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "格式名称"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "全书文件"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "立即出版"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "如不勾选，图书将保存在生产阶段，可随时从工作流程中出版。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "保存图书"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "保存中…"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "图书已出版。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "图书已保存在生产阶段。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "在目录中查看图书"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "打开工作流程"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "再次快速投稿"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "有些字段需要更正。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "无法保存图书，且未留下任何内容。请重试，或联系出版社的技术支持。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "请选择本出版社的丛书。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "请按 YYYY-MM-DD 格式输入日期。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "未找到文件。请重新上传。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "封面必须是图片。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "请至少添加一位贡献者。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "出版社没有适用于该贡献者的作者角色。请检查插件设置。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "请输入电子邮件地址：出版社没有可自动填写的地址。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "请从列表中选择国家。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "这不是有效的 ORCID iD。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "页面重复提交了同一位贡献者。请重新加载页面后再试。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "编著图书至少需要一位卷编辑。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "某位章节作者不在贡献者之中。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "章节文件必须是 PDF。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "有两种格式名称相同。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "这不是有效的 ISBN-13。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "请上传全书文件，或删除此格式。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "新贡献者的默认值"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "电子邮件地址"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "留空则使用出版社的技术支持联系方式；如果没有技术支持联系方式，则使用出版社的主要联系人。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "当前使用：{$email}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "国家"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "留空则使用出版社所在国家。"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "角色"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "快速投稿中每位贡献者获得的出版社作者角色。"

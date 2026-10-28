@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: eu\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "Bidalketa azkarra OMPrako"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "Liburua, haren laguntzaileak, kapituluak beren PDFarekin eta azken formatuak orri bakarrean gehitzen ditu, eta fitxategi guztiak onartuta eta sarbide irekian dituela argitaratzen du. Liburuki editatuetan, liburuaren metadatuek liburukiaren editoreak soilik aipatzen dituzte, eta kapitulu bakoitzak bere egileak."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "Bidalketa azkarra"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "Liburu baten bidalketa azkarra"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "Bete liburua, haren laguntzaileak, kapituluak eta azken formatuak, eta gorde. Liburua zuzenean ekoizpenera doa formatu eta fitxategi guztiak onartuta eta sarbide irekian dituela, eta argitaratu egiten da, behean marka kentzen ez badiozu. Dena alda daiteke geroago lan-fluxuan."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "Liburua"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "Liburu mota"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "Liburuki editatua: liburukiaren editoreak eta kapituluen egileak"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "Monografia: liburu osoa egile berberena"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "Bilduma"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "Bildumarik ez"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "Posizioa bilduman"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "Liburuaren hizkuntza"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "Bereizi gako-hitzak komen bidez."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "Azala"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "Argitalpen-data"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "Liburukiaren editoreak eta egileak"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "Izena eta abizenak soilik dira derrigorrezkoak: helbide elektronikoa eta argitaletxearen estatua automatikoki betetzen dira, eta Xehetasun gehiago atalean alda daitezke. Liburuki editatuetan, liburukiaren editoreak soilik aipatzen dira liburuaren metadatuetan; kapituluen egileak beren kapituluetan aipatzen dira."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "Gehitu laguntzaile bat"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "Rola"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "Liburukiaren editorea"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "Kapituluaren egilea"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "Egilea"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "Xehetasun gehiago"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "Mugitu gora"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "Mugitu behera"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "Kapituluak"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "Kapitulu bakoitzak bere orria du, bere egileekin eta bere PDFarekin. Kapitulu baten PDFa behean PDF izena duen formatuan argitaratzen da, eta formatu hori ez badago, automatikoki sortzen da."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "Gehitu kapitulu bat"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "{$number}. kapitulua"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "Kapituluaren egileak"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "Gehitu laguntzaileak goian kapituluaren egileak aukeratzeko."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "Orrialdeak"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "Kapituluaren azken PDFa"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "Liburuaren azken formatuak"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "Formatu bat liburu osoaren fitxategi bakoitzeko (PDF, EPUB…), onartuta eta sarbide irekian."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "Gehitu formatu bat"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "Formatuaren izena"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "Liburu osoaren fitxategia"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "Argitaratu orain"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "Markatu gabe, liburua ekoizpenean gordetzen da, lan-fluxutik argitaratzeko prest."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "Gorde liburua"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "Gordetzen…"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "Liburua argitaratu da."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "Liburua ekoizpenean gorde da."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "Ikusi liburua katalogoan"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "Ireki lan-fluxua"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "Beste bidalketa azkar bat"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "Eremu batzuk zuzendu behar dira."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "Ezin izan da liburua gorde, eta ez da ezer geratu. Saiatu berriro, edo jakinarazi argitaletxearen laguntza teknikoari."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "Aukeratu argitaletxe honetako bilduma bat."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "Idatzi data UUUU-HH-EE formatuan."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "Ez da fitxategia aurkitu. Kargatu berriro."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "Azalak irudi bat izan behar du."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "Gehitu gutxienez laguntzaile bat."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "Argitaletxeak ez du egile-rolik laguntzaile honentzat. Egiaztatu pluginaren ezarpenak."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "Idatzi helbide elektroniko bat: argitaletxeak ez du bat ere betetzeko."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "Aukeratu estatu bat zerrendatik."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "Hau ez da baliozko ORCID iD bat."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "Orriak laguntzaile bat bi aldiz bidali du. Kargatu berriro orria eta saiatu berriro."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "Liburuki editatu batek gutxienez liburukiaren editore bat behar du."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "Kapituluaren egileetako bat ez dago laguntzaileen artean."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "Kapitulu baten fitxategiak PDF bat izan behar du."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "Bi formatuk izen bera dute."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "Hau ez da baliozko ISBN-13 bat."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "Kargatu liburu osoaren fitxategia, edo kendu formatu hau."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "Laguntzaile berri batek jasotzen duena"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "Helbide elektronikoa"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "Utzi hutsik argitaletxearen laguntza teknikorako kontaktua erabiltzeko, edo kontaktu nagusia laguntza teknikorako kontakturik ez badago."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "Orain erabiltzen dena: {$email}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "Estatua"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "Utzi hutsik argitaletxearen estatua erabiltzeko."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "Rolak"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "Bidalketa azkarreko laguntzaile bakoitzak jasotzen duen argitaletxearen egile-rola."

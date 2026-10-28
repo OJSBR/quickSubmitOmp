@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ka\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "სწრაფი გაგზავნა OMP-ისთვის"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "ერთ გვერდზე ამატებს წიგნს, მის კონტრიბუტორებს, თავებს მათი PDF-ით და საბოლოო ფორმატებს, და აქვეყნებს მას ყველა ფაილით დამტკიცებულსა და ღია წვდომაში. რედაქტირებულ ტომში წიგნის მეტამონაცემებში მხოლოდ ტომის რედაქტორები მიეთითება, ხოლო თითოეულ თავში — მისი საკუთარი ავტორები."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "სწრაფი გაგზავნა"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "წიგნის სწრაფი გაგზავნა"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "შეავსეთ წიგნი, მისი კონტრიბუტორები, თავები და საბოლოო ფორმატები, შემდეგ შეინახეთ. წიგნი პირდაპირ გადადის წარმოების ეტაპზე, ყველა ფორმატითა და ფაილით დამტკიცებულსა და ღია წვდომაში, და ქვეყნდება, თუ ქვემოთ მონიშვნას არ მოხსნით. ყველაფრის შეცვლა მოგვიანებით შეიძლება სამუშაო პროცესში."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "წიგნი"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "წიგნის სახეობა"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "რედაქტირებული ტომი: ტომის რედაქტორები და თავების ავტორები"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "მონოგრაფია: მთელი წიგნი ერთი და იმავე ავტორების მიერ"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "სერია"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "სერიის გარეშე"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "ადგილი სერიაში"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "წიგნის ენა"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "საკვანძო სიტყვები გამოყავით მძიმეებით."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "ყდა"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "გამოქვეყნების თარიღი"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "ტომის რედაქტორები და ავტორები"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "სავალდებულოა მხოლოდ სახელი და გვარი: ელფოსტა და გამომცემლობის ქვეყანა ავტომატურად ივსება და მათი შეცვლა შეიძლება „დამატებითი დეტალების“ ქვეშ. რედაქტირებულ ტომში წიგნის მეტამონაცემებში მხოლოდ ტომის რედაქტორები მიეთითება; თავების ავტორები მიეთითება თავიანთ თავებში."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "კონტრიბუტორის დამატება"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "როლი"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "ტომის რედაქტორი"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "თავის ავტორი"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "ავტორი"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "დამატებითი დეტალები"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "ზემოთ აწევა"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "ქვემოთ ჩამოწევა"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "თავები"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "თითოეული თავი იღებს საკუთარ გვერდს, თავისი ავტორებითა და PDF-ით. თავის PDF ქვეყნდება ქვემოთ PDF-ად სახელდებულ ფორმატში, რომელიც ავტომატურად იქმნება, თუ ასეთი არ არსებობს."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "თავის დამატება"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "თავი {$number}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "თავის ავტორები"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "თავის ავტორების ასარჩევად ჯერ ზემოთ დაამატეთ კონტრიბუტორები."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "გვერდები"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "თავის საბოლოო PDF"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "წიგნის საბოლოო ფორმატები"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "თითო ფორმატი მთელი წიგნის თითოეული ფაილისთვის (PDF, EPUB…), დამტკიცებული და ღია წვდომაში."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "ფორმატის დამატება"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "ფორმატის სახელი"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "მთელი წიგნის ფაილი"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "ახლავე გამოქვეყნება"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "თუ მონიშნული არ არის, წიგნი ინახება წარმოების ეტაპზე და მზად არის სამუშაო პროცესიდან გამოსაქვეყნებლად."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "წიგნის შენახვა"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "ინახება…"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "წიგნი გამოქვეყნდა."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "წიგნი შენახულია წარმოების ეტაპზე."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "წიგნის ნახვა კატალოგში"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "სამუშაო პროცესის გახსნა"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "კიდევ ერთი სწრაფი გაგზავნა"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "ზოგიერთი ველი გასასწორებელია."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "წიგნის შენახვა ვერ მოხერხდა და არაფერი დარჩენილა. სცადეთ ხელახლა ან მიმართეთ გამომცემლობის ტექნიკურ მხარდაჭერას."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "აირჩიეთ ამ გამომცემლობის სერია."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "შეიყვანეთ თარიღი YYYY-MM-DD ფორმატით."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "ფაილი ვერ მოიძებნა. ატვირთეთ ხელახლა."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "ყდა უნდა იყოს გამოსახულება."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "დაამატეთ მინიმუმ ერთი კონტრიბუტორი."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "გამომცემლობას არ აქვს ავტორის როლი ამ კონტრიბუტორისთვის. შეამოწმეთ პლაგინის პარამეტრები."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "შეიყვანეთ ელფოსტის მისამართი: გამომცემლობას არ აქვს შესავსები მისამართი."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "აირჩიეთ ქვეყანა სიიდან."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "ეს არ არის სწორი ORCID iD."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "გვერდმა ერთი კონტრიბუტორი ორჯერ გაგზავნა. გადატვირთეთ გვერდი და სცადეთ ხელახლა."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "რედაქტირებულ ტომს სჭირდება მინიმუმ ერთი ტომის რედაქტორი."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "თავის ერთ-ერთი ავტორი კონტრიბუტორებს შორის არ არის."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "თავის ფაილი უნდა იყოს PDF."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "ორ ფორმატს ერთნაირი სახელი აქვს."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "ეს არ არის სწორი ISBN-13."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "ატვირთეთ მთელი წიგნის ფაილი ან წაშალეთ ეს ფორმატი."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "რას იღებს ახალი კონტრიბუტორი"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "ელფოსტის მისამართი"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "დატოვეთ ცარიელი, რათა გამოყენებულ იქნეს გამომცემლობის ტექნიკური მხარდაჭერის კონტაქტი, ან ძირითადი კონტაქტი, თუ ტექნიკური მხარდაჭერის კონტაქტი არ არის."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "ამჟამად გამოიყენება: {$email}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "ქვეყანა"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "დატოვეთ ცარიელი, რათა გამოყენებულ იქნეს გამომცემლობის ქვეყანა."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "როლები"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "გამომცემლობის ავტორის როლი, რომელსაც იღებს სწრაფი გაგზავნის თითოეული კონტრიბუტორი."

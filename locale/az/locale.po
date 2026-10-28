@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: az\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "OMP üçün sürətli təqdimat"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "Kitabı, onun iştirakçılarını, PDF faylları ilə fəsillərini və son formatlarını bir səhifədə əlavə edir və bütün faylları təsdiqlənmiş və açıq girişdə olmaqla dərc edir. Redaktə olunmuş cilddə kitabın metaməlumatlarında yalnız cild redaktorları, hər fəsildə isə onun öz müəllifləri göstərilir."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "Sürətli təqdimat"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "Kitabın sürətli təqdimatı"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "Kitabı, onun iştirakçılarını, fəsillərini və son formatlarını doldurun və yadda saxlayın. Kitab bütün formatları və faylları təsdiqlənmiş və açıq girişdə olmaqla birbaşa çap mərhələsinə keçir və aşağıda işarəni götürməsəniz, dərc olunur. Hər şeyi sonradan iş axınında dəyişmək olar."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "Kitab"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "Kitabın növü"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "Redaktə olunmuş cild: cild redaktorları və fəsil müəllifləri"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "Monoqrafiya: bütün kitab eyni müəlliflərə aiddir"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "Seriya"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "Seriyasız"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "Seriyadakı yeri"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "Kitabın dili"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "Açar sözləri vergüllə ayırın."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "Üz qabığı"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "Dərc tarixi"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "Cild redaktorları və müəlliflər"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "Yalnız ad və soyad tələb olunur: e-poçt və nəşriyyatın ölkəsi sizin üçün doldurulur və Daha ətraflı bölməsində dəyişdirilə bilər. Redaktə olunmuş cilddə kitabın metaməlumatlarında yalnız cild redaktorları göstərilir; fəsil müəllifləri öz fəsillərində göstərilir."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "İştirakçı əlavə edin"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "Rol"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "Cild redaktoru"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "Fəsil müəllifi"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "Müəllif"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "Daha ətraflı"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "Yuxarı köçürün"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "Aşağı köçürün"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "Fəsillər"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "Hər fəslin öz müəllifləri və öz PDF faylı ilə ayrıca səhifəsi olur. Fəslin PDF faylı aşağıda PDF adlı formatda dərc olunur; belə format yoxdursa, sizin üçün yaradılır."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "Fəsil əlavə edin"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "Fəsil {$number}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "Fəslin müəllifləri"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "Fəslin müəlliflərini seçmək üçün yuxarıda iştirakçıları əlavə edin."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "Səhifələr"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "Fəslin son PDF faylı"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "Kitabın son formatları"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "Bütün kitabın hər faylı üçün bir format (PDF, EPUB…), təsdiqlənmiş və açıq girişdə."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "Format əlavə edin"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "Formatın adı"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "Bütün kitabın faylı"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "İndi dərc edin"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "İşarə qoyulmasa, kitab çap mərhələsində saxlanılır və iş axınından dərc olunmağa hazır olur."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "Kitabı yadda saxlayın"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "Yadda saxlanılır…"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "Kitab dərc olundu."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "Kitab çap mərhələsində saxlanıldı."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "Kitaba kataloqda baxın"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "İş axınını açın"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "Yeni sürətli təqdimat"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "Bəzi sahələr düzəldilməlidir."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "Kitab yadda saxlanıla bilmədi və heç nə qalmadı. Yenidən cəhd edin və ya nəşriyyatın texniki dəstəyinə bildirin."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "Bu nəşriyyatın seriyasını seçin."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "Tarixi İİİİ-AA-GG formatında daxil edin."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "Fayl tapılmadı. Onu yenidən yükləyin."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "Üz qabığı şəkil olmalıdır."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "Ən azı bir iştirakçı əlavə edin."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "Nəşriyyatda bu iştirakçı üçün müəllif rolu yoxdur. Əlavənin parametrlərini yoxlayın."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "E-poçt ünvanı daxil edin: nəşriyyatın doldurmaq üçün ünvanı yoxdur."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "Siyahıdan ölkə seçin."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "Bu, etibarlı ORCID iD deyil."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "Səhifə bir iştirakçını iki dəfə göndərdi. Səhifəni yenidən yükləyin və yenidən cəhd edin."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "Redaktə olunmuş cildin ən azı bir cild redaktoru olmalıdır."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "Fəslin müəlliflərindən biri iştirakçılar arasında deyil."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "Fəslin faylı PDF olmalıdır."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "İki formatın adı eynidir."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "Bu, etibarlı ISBN-13 deyil."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "Bütün kitabın faylını yükləyin və ya bu formatı silin."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "Yeni iştirakçının aldıqları"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "E-poçt ünvanı"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "Nəşriyyatın texniki dəstək əlaqəsindən, o yoxdursa, əsas əlaqəsindən istifadə etmək üçün boş saxlayın."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "Hazırda istifadə olunur: {$email}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "Ölkə"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "Nəşriyyatın ölkəsindən istifadə etmək üçün boş saxlayın."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "Rollar"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "Sürətli təqdimatın hər iştirakçısına verilən nəşriyyat müəllif rolu."

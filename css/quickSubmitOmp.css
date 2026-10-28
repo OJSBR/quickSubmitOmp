@@ -1,0 +1,95 @@
+/**
+ * @file plugins/generic/quickSubmitOmp/css/quickSubmitOmp.css
+ *
+ * Copyright (c) 2026 OJSBR (https://ojsbr.com)
+ * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ *
+ * Layout of the quick submission page. The fields keep the look of the core forms;
+ * this only groups them in sections and cards.
+ */
+
+.quickSubmitOmp__intro,
+.quickSubmitOmp__description {
+	max-width: 52rem;
+	margin: 0 0 1rem;
+	line-height: 1.5;
+}
+
+.quickSubmitOmp__section {
+	padding: 1.5rem 0;
+	border-top: 1px solid #ddd;
+}
+
+.quickSubmitOmp__section:first-of-type {
+	border-top: 0;
+}
+
+.quickSubmitOmp__section > h2 {
+	margin: 0 0 1rem;
+	font-size: 1.25rem;
+}
+
+.quickSubmitOmp__section .pkpFormField {
+	margin-bottom: 1rem;
+}
+
+.quickSubmitOmp__row {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0 1.5rem;
+	align-items: flex-start;
+}
+
+.quickSubmitOmp__card {
+	margin: 0 0 1rem;
+	padding: 1rem 1rem 0.5rem;
+	border: 1px solid #ddd;
+	border-radius: 4px;
+	background: #fafafa;
+}
+
+.quickSubmitOmp__card > h3 {
+	margin: 0 0 0.75rem;
+	font-size: 1rem;
+}
+
+.quickSubmitOmp__cardActions {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem 1rem;
+	align-items: center;
+	margin: 0 0 0.75rem;
+}
+
+.quickSubmitOmp__more {
+	padding-top: 0.5rem;
+	border-top: 1px dashed #ddd;
+}
+
+.quickSubmitOmp__error {
+	margin: 0 0 0.75rem;
+	color: #d00a0a;
+	font-weight: 600;
+}
+
+.quickSubmitOmp__finish .pkpButton,
+.quickSubmitOmp__finish button {
+	margin-top: 0.5rem;
+}
+
+.quickSubmitOmp__done {
+	padding: 1.5rem;
+	border-left: 4px solid #00b28d;
+	background: #f2faf8;
+}
+
+.quickSubmitOmp__doneTitle {
+	font-size: 1.125rem;
+	font-weight: 600;
+}
+
+.quickSubmitOmp__actions {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.75rem;
+}

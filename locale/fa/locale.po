@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: fa\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "ارسال سریع برای OMP"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "کتاب، مشارکت‌کنندگان آن، فصل‌های آن همراه با PDF هر فصل و فرمت‌های نهایی آن را در یک صفحه اضافه می‌کند و آن را با همه فایل‌های تأییدشده و با دسترسی باز منتشر می‌کند. در کتاب ویراسته، فراداده کتاب فقط ویراستاران جلد را نام می‌برد و هر فصل نویسندگان خودش را."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "ارسال سریع"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "ارسال سریع کتاب"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "اطلاعات کتاب، مشارکت‌کنندگان، فصل‌ها و فرمت‌های نهایی آن را وارد و ذخیره کنید. کتاب مستقیماً با همه فرمت‌ها و فایل‌های تأییدشده و با دسترسی باز به مرحله تولید می‌رود و منتشر می‌شود، مگر اینکه علامت گزینه زیر را بردارید. همه‌چیز را بعداً می‌توان در گردش کار تغییر داد."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "کتاب"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "نوع کتاب"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "کتاب ویراسته: ویراستاران جلد و نویسندگان فصل"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "تک‌نگاری: کل کتاب از نویسندگان یکسان"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "مجموعه"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "بدون مجموعه"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "جایگاه در مجموعه"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "زبان کتاب"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "کلمات کلیدی را با ویرگول از هم جدا کنید."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "عکس جلد"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "تاریخ انتشار"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "ویراستاران جلد و نویسندگان"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "فقط نام و نام خانوادگی الزامی است: ایمیل و کشور انتشارات به‌طور خودکار پر می‌شوند و می‌توان آن‌ها را در بخش جزئیات بیشتر تغییر داد. در کتاب ویراسته، فقط ویراستاران جلد در فراداده کتاب نام برده می‌شوند؛ نویسندگان فصل در فصل‌های خود نام برده می‌شوند."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "افزودن مشارکت‌کننده"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "نقش"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "ویراستار جلد"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "نویسنده فصل"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "نویسنده"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "جزئیات بیشتر"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "انتقال به بالا"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "انتقال به پایین"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "فصل‌ها"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "هر فصل صفحه خودش را با نویسندگان و PDF خودش دارد. PDF هر فصل در فرمتی با نام PDF در پایین منتشر می‌شود که اگر وجود نداشته باشد، به‌طور خودکار ساخته می‌شود."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "افزودن فصل"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "فصل {$number}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "نویسندگان فصل"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "برای انتخاب نویسندگان فصل، ابتدا مشارکت‌کنندگان را در بالا اضافه کنید."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "صفحات"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "PDF نهایی فصل"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "فرمت‌های نهایی کتاب"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "یک فرمت برای هر فایل از کل کتاب (PDF، EPUB…)، تأییدشده و با دسترسی باز."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "افزودن فرمت"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "نام فرمت"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "فایل کل کتاب"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "انتشار فوری"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "اگر علامت نخورد، کتاب در مرحله تولید ذخیره می‌شود و آماده انتشار از طریق گردش کار است."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "ذخیره کتاب"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "در حال ذخیره…"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "کتاب منتشر شد."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "کتاب در مرحله تولید ذخیره شد."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "دیدن کتاب در کاتالوگ"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "باز کردن گردش کار"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "ارسال سریع دیگر"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "برخی از فیلدها باید اصلاح شوند."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "کتاب ذخیره نشد و چیزی از آن باقی نماند. دوباره تلاش کنید یا به پشتیبانی فنی انتشارات اطلاع دهید."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "یک مجموعه از این انتشارات انتخاب کنید."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "تاریخ را به صورت YYYY-MM-DD وارد کنید."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "فایل پیدا نشد. دوباره آن را آپلود کنید."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "عکس جلد باید تصویر باشد."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "دست‌کم یک مشارکت‌کننده اضافه کنید."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "انتشارات برای این مشارکت‌کننده نقش نویسنده ندارد. تنظیمات افزونه را بررسی کنید."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "یک نشانی ایمیل وارد کنید: انتشارات نشانی‌ای برای پر کردن ندارد."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "یک کشور از فهرست انتخاب کنید."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "این یک ORCID iD معتبر نیست."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "صفحه یک مشارکت‌کننده را دو بار فرستاد. صفحه را دوباره بارگذاری کنید و دوباره تلاش کنید."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "کتاب ویراسته دست‌کم به یک ویراستار جلد نیاز دارد."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "یکی از نویسندگان فصل در میان مشارکت‌کنندگان نیست."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "فایل هر فصل باید PDF باشد."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "دو فرمت نام یکسانی دارند."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "این یک ISBN-13 معتبر نیست."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "فایل کل کتاب را آپلود کنید یا این فرمت را حذف کنید."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "آنچه مشارکت‌کننده جدید دریافت می‌کند"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "نشانی ایمیل"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "برای استفاده از اطلاعات پشتیبانی فنی انتشارات، یا در صورت نبود آن، تماس اصلی انتشارات، خالی بگذارید."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "در حال استفاده: {$email}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "کشور"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "برای استفاده از کشور انتشارات، خالی بگذارید."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "نقش‌ها"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "نقش نویسنده در انتشارات که هر مشارکت‌کننده ارسال سریع دریافت می‌کند."

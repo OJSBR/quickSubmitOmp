@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: hy\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "Արագ ներկայացում OMP-ի համար"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "Մեկ էջում ավելացնում է գիրքը, նրա մասնակիցներին, գլուխները՝ իրենց PDF-ով, և վերջնական ձևաչափերը, ու հրապարակում է այն՝ բոլոր ֆայլերը հաստատված և բաց հասանելիությամբ։ Խմբագրված հատորի դեպքում գրքի մետատվյալներում նշվում են միայն հատորի խմբագիրները, իսկ յուրաքանչյուր գլխում՝ նրա սեփական հեղինակները։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "Արագ ներկայացում"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "Գրքի արագ ներկայացում"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "Լրացրեք գիրքը, նրա մասնակիցներին, գլուխները և վերջնական ձևաչափերը, ապա պահպանեք։ Գիրքն անմիջապես անցնում է Արտադրանքի փուլ՝ բոլոր ձևաչափերն ու ֆայլերը հաստատված և բաց հասանելիությամբ, և հրապարակվում է, եթե ներքևում չհանեք նշումը։ Հետագայում ամեն ինչ կարելի է փոխել աշխատանքային ընթացքում։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "Գիրք"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "Գրքի տեսակը"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "Խմբագրված հատոր՝ հատորի խմբագիրներ և գլուխների հեղինակներ"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "Մենագրություն՝ ամբողջ գիրքը նույն հեղինակներից"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "Մատենաշար"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "Առանց մատենաշարի"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "Տեղը մատենաշարում"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "Գրքի լեզուն"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "Բանալի բառերը բաժանեք ստորակետերով։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "Շապիկ"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "Հրապարակման ամսաթիվ"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "Հատորի խմբագիրներ և հեղինակներ"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "Պարտադիր են միայն անունը և ազգանունը. էլ․ փոստի հասցեն և հրատարակչության երկիրը լրացվում են ավտոմատ և կարող են փոխվել «Լրացուցիչ մանրամասներ» բաժնում։ Խմբագրված հատորում գրքի մետատվյալներում նշվում են միայն հատորի խմբագիրները, իսկ գլուխների հեղինակները նշվում են իրենց գլուխներում։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "Ավելացնել մասնակից"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "Դեր"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "Հատորի խմբագիր"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "Գլխի հեղինակ"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "Հեղինակ"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "Լրացուցիչ մանրամասներ"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "Տեղափոխել վեր"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "Տեղափոխել վար"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "Գլուխներ"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "Յուրաքանչյուր գլուխ ստանում է իր էջը՝ իր հեղինակներով և PDF-ով։ Գլխի PDF-ը հրապարակվում է ներքևում PDF անունով ձևաչափում, որը ստեղծվում է ավտոմատ, եթե այդպիսին չկա։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "Ավելացնել գլուխ"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "Գլուխ {$number}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "Գլխի հեղինակները"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "Գլխի հեղինակներին ընտրելու համար նախ վերևում ավելացրեք մասնակիցներին։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "Էջեր"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "Գլխի վերջնական PDF-ը"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "Գրքի վերջնական ձևաչափերը"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "Մեկ ձևաչափ ամբողջ գրքի յուրաքանչյուր ֆայլի համար (PDF, EPUB…), հաստատված և բաց հասանելիությամբ։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "Ավելացնել ձևաչափ"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "Ձևաչափի անվանումը"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "Ամբողջ գրքի ֆայլը"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "Հրապարակել հիմա"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "Եթե նշված չէ, գիրքը պահպանվում է Արտադրանքի փուլում՝ պատրաստ աշխատանքային ընթացքից հրապարակվելու։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "Պահպանել գիրքը"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "Պահպանվում է…"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "Գիրքը հրապարակվեց։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "Գիրքը պահպանվեց Արտադրանքի փուլում։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "Տեսնել գիրքը կատալոգում"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "Բացել աշխատանքային ընթացքը"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "Եվս մեկ արագ ներկայացում"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "Որոշ դաշտեր պետք է ուղղել։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "Գիրքը չհաջողվեց պահպանել, և ոչինչ չի մնացել։ Փորձեք կրկին կամ դիմեք հրատարակչության տեխնիկական աջակցությանը։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "Ընտրեք այս հրատարակչության մատենաշարերից մեկը։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "Մուտքագրեք ամսաթիվը YYYY-MM-DD ձևաչափով։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "Ֆայլը չի գտնվել։ Վերբեռնեք այն կրկին։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "Շապիկը պետք է լինի պատկեր։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "Ավելացրեք առնվազն մեկ մասնակից։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "Հրատարակչությունը այս մասնակցի համար հեղինակի դեր չունի։ Ստուգեք փլագինի կարգավորումները։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "Մուտքագրեք էլ․ փոստի հասցե. հրատարակչությունը լրացնելու հասցե չունի։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "Ընտրեք երկիր ցանկից։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "Սա վավեր ORCID iD չէ։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "Էջը մեկ մասնակցին ուղարկել է երկու անգամ։ Վերաբեռնեք էջը և փորձեք կրկին։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "Խմբագրված հատորին անհրաժեշտ է առնվազն մեկ հատորի խմբագիր։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "Գլխի հեղինակներից մեկը մասնակիցների մեջ չէ։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "Գլխի ֆայլը պետք է լինի PDF։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "Երկու ձևաչափ ունեն նույն անվանումը։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "Սա վավեր ISBN-13 չէ։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "Վերբեռնեք ամբողջ գրքի ֆայլը կամ հեռացրեք այս ձևաչափը։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "Ինչ է ստանում նոր մասնակիցը"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "էլ․ փոստի հասցե"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "Թողեք դատարկ՝ հրատարակչության տեխնիկական աջակցության կապն օգտագործելու համար, կամ հիմնական կապը, եթե տեխնիկական աջակցության կապ չկա։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "Այժմ օգտագործվում է՝ {$email}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "Երկիր"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "Թողեք դատարկ՝ հրատարակչության երկիրն օգտագործելու համար։"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "Դերեր"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "Հրատարակչության հեղինակի դերը, որը ստանում է արագ ներկայացման յուրաքանչյուր մասնակից։"

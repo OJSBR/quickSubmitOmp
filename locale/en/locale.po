@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: en\n"
+
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "Quick Submission for OMP"
+
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "Adds the book, its contributors, its chapters with their PDF and its final formats on one page, and publishes it with every file approved and open. In an edited volume, the book metadata names the volume editors only, and each chapter its own authors."
+
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "Quick Submission"
+
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "Quick Submission of a Book"
+
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "Fill in the book, its contributors, its chapters and its final formats, and save. The book goes straight to production with every format and file approved and in open access, and is published unless you uncheck it below. Everything can be changed later in the workflow."
+
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "Book"
+
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "Kind of book"
+
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "Edited volume: volume editors and chapter authors"
+
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "Monograph: the whole book by the same authors"
+
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "Series"
+
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "No series"
+
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "Position in the series"
+
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "Language of the book"
+
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "Separate the keywords with commas."
+
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "Cover"
+
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "Date of publication"
+
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "Volume editors and authors"
+
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "Only the given name and the family name are required: the e-mail and the country of the press are filled in for you, and can be changed under More details. In an edited volume, only the volume editors are named in the book metadata; the chapter authors are named in their chapters."
+
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "Add a contributor"
+
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "Role"
+
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "Volume editor"
+
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "Chapter author"
+
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "Author"
+
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "More details"
+
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "Move up"
+
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "Move down"
+
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "Chapters"
+
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "Each chapter gets its own page, with its authors and its PDF. The PDF of a chapter is published in the format named PDF below, which is made for you when there is none."
+
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "Add a chapter"
+
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "Chapter {$number}"
+
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "Authors of the chapter"
+
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "Add the contributors above to choose the authors of the chapter."
+
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "Pages"
+
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "Final PDF of the chapter"
+
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "Final formats of the book"
+
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "One format per file of the whole book (PDF, EPUB…), approved and in open access."
+
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "Add a format"
+
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "Name of the format"
+
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "File of the whole book"
+
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "Publish now"
+
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "Unchecked, the book is saved in production, ready to be published from the workflow."
+
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "Save the book"
+
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "Saving…"
+
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "The book was published."
+
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "The book was saved in production."
+
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "See the book in the catalog"
+
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "Open the workflow"
+
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "Another quick submission"
+
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "Some fields need to be corrected."
+
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "The book could not be saved, and nothing was left behind. Try again, or tell the technical support of the press."
+
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "Choose a series of this press."
+
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "Enter a date as YYYY-MM-DD."
+
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "The file was not found. Upload it again."
+
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "The cover must be an image."
+
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "Add at least one contributor."
+
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "The press has no author role for this contributor. Check the settings of the plugin."
+
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "Enter an e-mail address: the press has none to fill in."
+
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "Choose a country from the list."
+
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "This is not a valid ORCID iD."
+
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "The page sent a contributor twice. Reload it and try again."
+
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "An edited volume needs at least one volume editor."
+
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "An author of the chapter is not among the contributors."
+
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "The file of a chapter must be a PDF."
+
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "Two formats have the same name."
+
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "This is not a valid ISBN-13."
+
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "Upload the file of the whole book, or remove this format."
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "What a new contributor gets"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "E-mail address"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "Leave it empty to use the technical support contact of the press, or its principal contact when there is no technical support contact."
+
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "In use now: {$email}"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "Country"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "Leave it empty to use the country of the press."
+
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "Roles"
+
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "The author role of the press each contributor of the quick submission gets."

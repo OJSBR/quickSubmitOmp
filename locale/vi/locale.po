@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: vi\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "Gửi nhanh cho OMP"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "Thêm cuốn sách, những người đóng góp, các chương kèm tệp PDF và các định dạng cuối cùng trên một trang, rồi xuất bản sách với mọi tệp đã được phê duyệt và ở chế độ truy cập mở. Với sách tập hợp do chủ biên biên soạn, siêu dữ liệu của sách chỉ ghi tên các chủ biên, còn mỗi chương ghi tên các tác giả của chương đó."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "Gửi nhanh"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "Gửi nhanh một cuốn sách"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "Điền thông tin về sách, những người đóng góp, các chương và các định dạng cuối cùng, rồi lưu lại. Sách được chuyển thẳng sang giai đoạn sản xuất với mọi định dạng và tệp đã được phê duyệt và ở chế độ truy cập mở, và sẽ được xuất bản trừ khi bạn bỏ chọn ở bên dưới. Mọi thứ đều có thể thay đổi sau trong quy trình làm việc."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "Sách"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "Loại sách"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "Sách tập hợp: chủ biên và tác giả chương"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "Chuyên khảo: toàn bộ sách của cùng các tác giả"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "Tùng thư"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "Không thuộc tùng thư"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "Vị trí trong tùng thư"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "Ngôn ngữ của sách"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "Phân tách các từ khóa bằng dấu phẩy."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "Bìa"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "Ngày xuất bản"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "Chủ biên và tác giả"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "Chỉ bắt buộc nhập tên và họ: địa chỉ email và quốc gia của nhà xuất bản được điền sẵn cho bạn và có thể thay đổi trong mục Thêm chi tiết. Với sách tập hợp, siêu dữ liệu của sách chỉ ghi tên các chủ biên; tác giả chương được ghi tên trong chương của họ."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "Thêm người đóng góp"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "Vai trò"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "Chủ biên"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "Tác giả chương"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "Tác giả"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "Thêm chi tiết"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "Di chuyển lên"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "Di chuyển xuống"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "Các chương"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "Mỗi chương có trang riêng, với các tác giả và tệp PDF của chương đó. Tệp PDF của chương được xuất bản trong định dạng có tên PDF ở bên dưới; định dạng này sẽ được tạo tự động nếu chưa có."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "Thêm chương"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "Chương {$number}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "Tác giả của chương"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "Hãy thêm những người đóng góp ở trên để chọn tác giả của chương."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "Trang"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "Tệp PDF cuối cùng của chương"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "Các định dạng cuối cùng của sách"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "Mỗi định dạng ứng với một tệp của toàn bộ cuốn sách (PDF, EPUB…), đã được phê duyệt và ở chế độ truy cập mở."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "Thêm định dạng"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "Tên định dạng"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "Tệp của toàn bộ cuốn sách"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "Xuất bản ngay"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "Nếu bỏ chọn, sách được lưu ở giai đoạn sản xuất, sẵn sàng để xuất bản từ quy trình làm việc."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "Lưu sách"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "Đang lưu…"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "Sách đã được xuất bản."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "Sách đã được lưu ở giai đoạn sản xuất."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "Xem sách trong danh mục"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "Mở quy trình làm việc"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "Gửi nhanh sách khác"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "Một số trường cần được sửa."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "Không thể lưu sách, và không có gì bị để lại. Hãy thử lại hoặc báo cho bộ phận hỗ trợ kỹ thuật của nhà xuất bản."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "Hãy chọn một tùng thư của nhà xuất bản này."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "Hãy nhập ngày theo định dạng YYYY-MM-DD."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "Không tìm thấy tệp. Hãy tải lên lại."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "Bìa phải là một hình ảnh."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "Hãy thêm ít nhất một người đóng góp."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "Nhà xuất bản không có vai trò tác giả cho người đóng góp này. Hãy kiểm tra cài đặt của plugin."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "Hãy nhập địa chỉ email: nhà xuất bản không có địa chỉ nào để điền sẵn."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "Hãy chọn một quốc gia trong danh sách."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "Đây không phải là một ORCID iD hợp lệ."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "Trang đã gửi một người đóng góp hai lần. Hãy tải lại trang và thử lại."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "Sách tập hợp cần có ít nhất một chủ biên."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "Một tác giả của chương không có trong danh sách người đóng góp."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "Tệp của một chương phải là PDF."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "Hai định dạng có cùng tên."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "Đây không phải là một ISBN-13 hợp lệ."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "Hãy tải lên tệp của toàn bộ cuốn sách, hoặc xóa định dạng này."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "Những gì người đóng góp mới nhận được"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "Địa chỉ email"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "Để trống để dùng liên hệ hỗ trợ kỹ thuật của nhà xuất bản, hoặc liên hệ chính của nhà xuất bản khi không có liên hệ hỗ trợ kỹ thuật."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "Đang dùng: {$email}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "Quốc gia"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "Để trống để dùng quốc gia của nhà xuất bản."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "Vai trò"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "Vai trò tác giả của nhà xuất bản mà mỗi người đóng góp trong lần gửi nhanh nhận được."

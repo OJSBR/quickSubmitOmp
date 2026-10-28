@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: es\n"
+
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "Envío rápido para OMP"
+
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "Registra en una sola página el libro, sus colaboradores, sus capítulos con su PDF y sus formatos finales, y lo publica con todos los archivos aprobados y en acceso abierto. En una obra colectiva, los metadatos del libro solo incluyen a los coordinadores de obra, y cada capítulo a sus propios autores."
+
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "Envío rápido"
+
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "Envío rápido de un libro"
+
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "Complete el libro, sus colaboradores, sus capítulos y sus formatos finales, y guarde. El libro pasa directamente a producción con todos los formatos y archivos aprobados y en acceso abierto, y se publica a menos que desmarque la opción de abajo. Todo puede modificarse después en el flujo de trabajo."
+
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "Libro"
+
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "Tipo de libro"
+
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "Obra colectiva: coordinadores de obra y autores de capítulo"
+
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "Monografía: todo el libro de los mismos autores"
+
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "Colección"
+
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "Sin colección"
+
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "Posición en la colección"
+
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "Idioma del libro"
+
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "Separe las palabras clave con comas."
+
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "Portada"
+
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "Fecha de publicación"
+
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "Coordinadores de obra y autores"
+
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "Solo el nombre y los apellidos son obligatorios: el correo electrónico y el país de la editorial se rellenan automáticamente y pueden cambiarse en Más detalles. En una obra colectiva, solo los coordinadores de obra figuran en los metadatos del libro; los autores de capítulo figuran en sus capítulos."
+
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "Añadir un colaborador"
+
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "Rol"
+
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "Coordinador de obra"
+
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "Autor de capítulo"
+
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "Autor/a"
+
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "Más detalles"
+
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "Subir"
+
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "Bajar"
+
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "Capítulos"
+
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "Cada capítulo tiene su propia página, con sus autores y su PDF. El PDF de un capítulo se publica en el formato llamado PDF de abajo, que se crea automáticamente si no existe."
+
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "Añadir un capítulo"
+
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "Capítulo {$number}"
+
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "Autores del capítulo"
+
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "Añada los colaboradores de arriba para elegir los autores del capítulo."
+
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "Páginas"
+
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "PDF final del capítulo"
+
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "Formatos finales del libro"
+
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "Un formato por cada archivo del libro completo (PDF, EPUB…), aprobado y en acceso abierto."
+
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "Añadir un formato"
+
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "Nombre del formato"
+
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "Archivo del libro completo"
+
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "Publicar ahora"
+
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "Si se desmarca, el libro se guarda en producción, listo para publicarse desde el flujo de trabajo."
+
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "Guardar el libro"
+
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "Guardando…"
+
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "El libro se ha publicado."
+
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "El libro se ha guardado en producción."
+
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "Ver el libro en el catálogo"
+
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "Abrir el flujo de trabajo"
+
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "Otro envío rápido"
+
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "Hay campos que deben corregirse."
+
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "No se pudo guardar el libro y no ha quedado nada a medias. Inténtelo de nuevo o avise al soporte técnico de la editorial."
+
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "Elija una colección de esta editorial."
+
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "Introduzca la fecha en el formato AAAA-MM-DD."
+
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "No se encontró el archivo. Vuelva a cargarlo."
+
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "La portada debe ser una imagen."
+
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "Añada al menos un colaborador."
+
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "La editorial no tiene un rol de autor para este colaborador. Revise los ajustes del módulo."
+
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "Introduzca una dirección de correo electrónico: la editorial no tiene ninguna para rellenarla."
+
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "Elija un país de la lista."
+
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "No es un identificador ORCID válido."
+
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "La página envió un colaborador dos veces. Recárguela e inténtelo de nuevo."
+
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "Una obra colectiva necesita al menos un coordinador de obra."
+
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "Un autor del capítulo no está entre los colaboradores."
+
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "El archivo de un capítulo debe ser un PDF."
+
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "Dos formatos tienen el mismo nombre."
+
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "No es un ISBN-13 válido."
+
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "Cargue el archivo del libro completo o elimine este formato."
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "Lo que recibe un nuevo colaborador"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "Correo electrónico"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "Déjelo vacío para usar el contacto del soporte técnico de la editorial, o su contacto principal si no hay contacto del soporte técnico."
+
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "En uso ahora: {$email}"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "País"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "Déjelo vacío para usar el país de la editorial."
+
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "Roles"
+
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "El rol de autor de la editorial que recibe cada colaborador del envío rápido."

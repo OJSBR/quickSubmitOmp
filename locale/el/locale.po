@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: el\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "Γρήγορη υποβολή για το OMP"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "Προσθέτει το βιβλίο, τους συντελεστές του, τα κεφάλαιά του με το PDF τους και τα τελικά μορφότυπά του σε μία σελίδα και το δημοσιεύει με όλα τα αρχεία εγκεκριμένα και σε ανοικτή πρόσβαση. Σε έργο υπό επιμέλεια, τα μεταδεδομένα του βιβλίου αναφέρουν μόνο τους επιμελητές έργου και κάθε κεφάλαιο τους δικούς του συγγραφείς."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "Γρήγορη υποβολή"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "Γρήγορη υποβολή βιβλίου"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "Συμπληρώστε το βιβλίο, τους συντελεστές, τα κεφάλαια και τα τελικά μορφότυπα και αποθηκεύστε. Το βιβλίο πηγαίνει κατευθείαν στην παραγωγή με όλα τα μορφότυπα και τα αρχεία εγκεκριμένα και σε ανοικτή πρόσβαση, και δημοσιεύεται, εκτός αν αποεπιλέξετε την επιλογή παρακάτω. Όλα μπορούν να αλλάξουν αργότερα στη ροή εργασιών."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "Βιβλίο"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "Είδος βιβλίου"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "Έργο υπό επιμέλεια: επιμελητές έργου και συγγραφείς κεφαλαίων"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "Μονογραφία: όλο το βιβλίο από τους ίδιους συγγραφείς"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "Σειρά"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "Χωρίς σειρά"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "Θέση στη σειρά"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "Γλώσσα του βιβλίου"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "Χωρίστε τις λέξεις κλειδιά με κόμματα."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "Εξώφυλλο"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "Ημερομηνία δημοσίευσης"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "Επιμελητές έργου και συγγραφείς"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "Απαιτούνται μόνο το όνομα και το επίθετο: το e-mail και η χώρα του εκδοτικού οίκου συμπληρώνονται αυτόματα και μπορούν να αλλάξουν στο Περισσότερες λεπτομέρειες. Σε έργο υπό επιμέλεια, στα μεταδεδομένα του βιβλίου αναφέρονται μόνο οι επιμελητές έργου· οι συγγραφείς κεφαλαίων αναφέρονται στα κεφάλαιά τους."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "Προσθήκη συντελεστή"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "Ρόλος"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "Επιμελητής Έργου"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "Συγγραφέας Κεφαλαίου"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "Συγγραφέας"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "Περισσότερες λεπτομέρειες"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "Μετακίνηση πάνω"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "Μετακίνηση κάτω"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "Κεφάλαια"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "Κάθε κεφάλαιο αποκτά δική του σελίδα, με τους συγγραφείς του και το PDF του. Το PDF ενός κεφαλαίου δημοσιεύεται στο μορφότυπο με όνομα PDF παρακάτω, το οποίο δημιουργείται αυτόματα όταν δεν υπάρχει."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "Προσθήκη κεφαλαίου"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "Κεφάλαιο {$number}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "Συγγραφείς του κεφαλαίου"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "Προσθέστε τους συντελεστές παραπάνω για να επιλέξετε τους συγγραφείς του κεφαλαίου."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "Σελίδες"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "Τελικό PDF του κεφαλαίου"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "Τελικά μορφότυπα του βιβλίου"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "Ένα μορφότυπο για κάθε αρχείο ολόκληρου του βιβλίου (PDF, EPUB…), εγκεκριμένο και σε ανοικτή πρόσβαση."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "Προσθήκη μορφότυπου"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "Όνομα του μορφότυπου"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "Αρχείο ολόκληρου του βιβλίου"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "Δημοσίευση τώρα"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "Χωρίς την επιλογή, το βιβλίο αποθηκεύεται στην παραγωγή, έτοιμο για δημοσίευση από τη ροή εργασιών."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "Αποθήκευση του βιβλίου"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "Αποθήκευση…"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "Το βιβλίο δημοσιεύτηκε."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "Το βιβλίο αποθηκεύτηκε στην παραγωγή."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "Δείτε το βιβλίο στον κατάλογο"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "Άνοιγμα της ροής εργασιών"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "Νέα γρήγορη υποβολή"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "Ορισμένα πεδία χρειάζονται διόρθωση."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "Δεν ήταν δυνατή η αποθήκευση του βιβλίου και δεν έμεινε τίποτα πίσω. Δοκιμάστε ξανά ή ενημερώστε την τεχνική υποστήριξη του εκδοτικού οίκου."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "Επιλέξτε μια σειρά αυτού του εκδοτικού οίκου."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "Εισαγάγετε ημερομηνία ως ΕΕΕΕ-ΜΜ-ΗΗ."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "Το αρχείο δεν βρέθηκε. Μεταφορτώστε το ξανά."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "Το εξώφυλλο πρέπει να είναι εικόνα."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "Προσθέστε τουλάχιστον έναν συντελεστή."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "Ο εκδοτικός οίκος δεν έχει ρόλο συγγραφέα για αυτόν τον συντελεστή. Ελέγξτε τις ρυθμίσεις του πρόσθετου."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "Εισαγάγετε διεύθυνση e-mail: ο εκδοτικός οίκος δεν έχει καμία για συμπλήρωση."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "Επιλέξτε χώρα από τη λίστα."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "Αυτό δεν είναι έγκυρο ORCID iD."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "Η σελίδα έστειλε έναν συντελεστή δύο φορές. Φορτώστε τη ξανά και δοκιμάστε πάλι."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "Ένα έργο υπό επιμέλεια χρειάζεται τουλάχιστον έναν επιμελητή έργου."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "Ένας συγγραφέας του κεφαλαίου δεν είναι μεταξύ των συντελεστών."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "Το αρχείο ενός κεφαλαίου πρέπει να είναι PDF."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "Δύο μορφότυπα έχουν το ίδιο όνομα."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "Αυτό δεν είναι έγκυρο ISBN-13."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "Μεταφορτώστε το αρχείο ολόκληρου του βιβλίου ή αφαιρέστε αυτό το μορφότυπο."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "Τι λαμβάνει ένας νέος συντελεστής"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "Διεύθυνση e-mail"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "Αφήστε το κενό για να χρησιμοποιηθεί ο υπεύθυνος τεχνικής υποστήριξης του εκδοτικού οίκου ή ο υπεύθυνος επικοινωνίας του όταν δεν υπάρχει υπεύθυνος τεχνικής υποστήριξης."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "Σε χρήση τώρα: {$email}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "Χώρα"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "Αφήστε το κενό για να χρησιμοποιηθεί η χώρα του εκδοτικού οίκου."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "Ρόλοι"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "Ο ρόλος συγγραφέα του εκδοτικού οίκου που λαμβάνει κάθε συντελεστής της γρήγορης υποβολής."

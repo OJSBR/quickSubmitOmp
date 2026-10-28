@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: nl\n"
+
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "Snel inzenden voor OMP"
+
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "Voegt het boek, de bijdragers, de hoofdstukken met hun PDF en de definitieve formaten op één pagina toe, en publiceert het met alle bestanden goedgekeurd en in open access. Bij een bundel noemen de metadata van het boek alleen de bundelredacteuren, en elk hoofdstuk zijn eigen auteurs."
+
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "Snel inzenden"
+
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "Snel een boek inzenden"
+
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "Vul het boek, de bijdragers, de hoofdstukken en de definitieve formaten in en sla op. Het boek gaat direct naar de productie met alle formaten en bestanden goedgekeurd en in open access, en wordt gepubliceerd tenzij u dat hieronder uitvinkt. Alles kan later in het redactieproces worden gewijzigd."
+
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "Boek"
+
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "Soort boek"
+
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "Bundel: bundelredacteuren en hoofdstukauteurs"
+
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "Monografie: het hele boek door dezelfde auteurs"
+
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "Reeks"
+
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "Geen reeks"
+
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "Positie in de reeks"
+
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "Taal van het boek"
+
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "Scheid de trefwoorden met komma's."
+
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "Omslag"
+
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "Publicatiedatum"
+
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "Bundelredacteuren en auteurs"
+
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "Alleen de voornaam en de achternaam zijn verplicht: het e-mailadres en het land van de uitgeverij worden voor u ingevuld en kunnen worden gewijzigd onder Meer gegevens. Bij een bundel worden alleen de bundelredacteuren in de metadata van het boek genoemd; de hoofdstukauteurs worden in hun hoofdstukken genoemd."
+
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "Bijdrager toevoegen"
+
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "Rol"
+
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "Bundelredacteur"
+
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "Hoofdstukauteur"
+
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "Auteur"
+
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "Meer gegevens"
+
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "Omhoog"
+
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "Omlaag"
+
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "Hoofdstukken"
+
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "Elk hoofdstuk krijgt een eigen pagina, met zijn auteurs en zijn PDF. De PDF van een hoofdstuk wordt gepubliceerd in het formaat met de naam PDF hieronder, dat voor u wordt aangemaakt als het er nog niet is."
+
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "Hoofdstuk toevoegen"
+
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "Hoofdstuk {$number}"
+
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "Auteurs van het hoofdstuk"
+
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "Voeg hierboven de bijdragers toe om de auteurs van het hoofdstuk te kiezen."
+
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "Pagina's"
+
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "Definitieve PDF van het hoofdstuk"
+
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "Definitieve formaten van het boek"
+
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "Eén formaat per bestand van het hele boek (PDF, EPUB…), goedgekeurd en in open access."
+
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "Formaat toevoegen"
+
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "Naam van het formaat"
+
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "Bestand van het hele boek"
+
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "Nu publiceren"
+
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "Als dit niet is aangevinkt, wordt het boek in de productie opgeslagen, klaar om vanuit het redactieproces te worden gepubliceerd."
+
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "Boek opslaan"
+
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "Bezig met opslaan…"
+
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "Het boek is gepubliceerd."
+
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "Het boek is in de productie opgeslagen."
+
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "Het boek in de catalogus bekijken"
+
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "Het redactieproces openen"
+
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "Nog een snelle inzending"
+
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "Enkele velden moeten worden gecorrigeerd."
+
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "Het boek kon niet worden opgeslagen en er is niets half achtergebleven. Probeer het opnieuw of meld het aan de technische ondersteuning van de uitgeverij."
+
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "Kies een reeks van deze uitgeverij."
+
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "Voer een datum in als JJJJ-MM-DD."
+
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "Het bestand is niet gevonden. Upload het opnieuw."
+
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "De omslag moet een afbeelding zijn."
+
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "Voeg ten minste één bijdrager toe."
+
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "De uitgeverij heeft geen auteursrol voor deze bijdrager. Controleer de instellingen van de plugin."
+
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "Voer een e-mailadres in: de uitgeverij heeft er geen om in te vullen."
+
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "Kies een land uit de lijst."
+
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "Dit is geen geldig ORCID ID."
+
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "De pagina heeft een bijdrager twee keer verzonden. Laad de pagina opnieuw en probeer het nog eens."
+
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "Een bundel heeft ten minste één bundelredacteur nodig."
+
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "Een auteur van het hoofdstuk staat niet tussen de bijdragers."
+
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "Het bestand van een hoofdstuk moet een PDF zijn."
+
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "Twee formaten hebben dezelfde naam."
+
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "Dit is geen geldig ISBN-13."
+
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "Upload het bestand van het hele boek of verwijder dit formaat."
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "Wat een nieuwe bijdrager krijgt"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "E-mailadres"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "Laat leeg om de contactpersoon voor technische ondersteuning van de uitgeverij te gebruiken, of de eerste contactpersoon als er geen contactpersoon voor technische ondersteuning is."
+
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "Nu in gebruik: {$email}"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "Land"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "Laat leeg om het land van de uitgeverij te gebruiken."
+
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "Rollen"
+
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "De auteursrol van de uitgeverij die elke bijdrager van de snelle inzending krijgt."

@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ca\n"
+
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "Tramesa ràpida per a l'OMP"
+
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "Afegeix en una sola pàgina el llibre, els seus contribuïdors, els seus capítols amb el seu PDF i els seus formats finals, i el publica amb tots els fitxers aprovats i en accés obert. En una obra col·lectiva, les metadades del llibre només inclouen els editors/es de volum, i cada capítol els seus propis autors/ores."
+
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "Tramesa ràpida"
+
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "Tramesa ràpida d'un llibre"
+
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "Ompliu el llibre, els contribuïdors, els capítols i els formats finals, i deseu. El llibre passa directament a producció amb tots els formats i fitxers aprovats i en accés obert, i es publica tret que desmarqueu l'opció de més avall. Tot es pot canviar més endavant en el circuit de treball."
+
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "Llibre"
+
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "Tipus de llibre"
+
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "Obra col·lectiva: editors/es de volum i autors/ores de capítol"
+
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "Monografia: tot el llibre dels mateixos autors/ores"
+
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "Sèrie"
+
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "Sense sèrie"
+
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "Posició a la sèrie"
+
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "Idioma del llibre"
+
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "Separeu les paraules clau amb comes."
+
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "Portada"
+
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "Data de publicació"
+
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "Editors/es de volum i autors/ores"
+
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "Només són obligatoris el nom i els cognoms: l'adreça electrònica i el país de l'editorial s'emplenen automàticament i es poden canviar a Més detalls. En una obra col·lectiva, només els editors/es de volum figuren a les metadades del llibre; els autors/ores de capítol figuren als seus capítols."
+
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "Afegeix un contribuïdor/a"
+
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "Rol"
+
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "Editor/a de volum"
+
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "Autor/a del capítol"
+
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "Autor/a"
+
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "Més detalls"
+
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "Puja"
+
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "Baixa"
+
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "Capítols"
+
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "Cada capítol té la seva pròpia pàgina, amb els seus autors/ores i el seu PDF. El PDF d'un capítol es publica en el format anomenat PDF de més avall, que es crea automàticament si no n'hi ha cap."
+
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "Afegeix un capítol"
+
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "Capítol {$number}"
+
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "Autors/ores del capítol"
+
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "Afegiu els contribuïdors de més amunt per triar els autors/ores del capítol."
+
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "Pàgines"
+
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "PDF final del capítol"
+
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "Formats finals del llibre"
+
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "Un format per cada fitxer del llibre complet (PDF, EPUB…), aprovat i en accés obert."
+
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "Afegeix un format"
+
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "Nom del format"
+
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "Fitxer del llibre complet"
+
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "Publica ara"
+
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "Si es desmarca, el llibre es desa a producció, a punt per publicar-lo des del circuit de treball."
+
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "Desa el llibre"
+
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "S'està desant…"
+
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "S'ha publicat el llibre."
+
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "S'ha desat el llibre a producció."
+
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "Mostra el llibre al catàleg"
+
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "Obre el circuit de treball"
+
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "Una altra tramesa ràpida"
+
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "Cal corregir alguns camps."
+
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "No s'ha pogut desar el llibre i no ha quedat res a mitges. Torneu-ho a provar o aviseu el suport tècnic de l'editorial."
+
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "Trieu una sèrie d'aquesta editorial."
+
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "Introduïu una data amb el format AAAA-MM-DD."
+
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "No s'ha trobat el fitxer. Torneu-lo a carregar."
+
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "La portada ha de ser una imatge."
+
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "Afegiu almenys un contribuïdor/a."
+
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "L'editorial no té cap rol d'autor per a aquest contribuïdor/a. Reviseu la configuració del connector."
+
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "Introduïu una adreça electrònica: l'editorial no en té cap per emplenar-la."
+
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "Trieu un país de la llista."
+
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "Aquest identificador ORCID no és vàlid."
+
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "La pàgina ha enviat un contribuïdor/a dues vegades. Torneu-la a carregar i proveu-ho de nou."
+
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "Una obra col·lectiva necessita almenys un editor/a de volum."
+
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "Un autor/a del capítol no és entre els contribuïdors."
+
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "El fitxer d'un capítol ha de ser un PDF."
+
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "Hi ha dos formats amb el mateix nom."
+
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "Aquest ISBN-13 no és vàlid."
+
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "Carregueu el fitxer del llibre complet o elimineu aquest format."
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "Què rep un contribuïdor/a nou"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "Adreça de correu electrònic"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "Deixeu-ho en blanc per utilitzar el contacte de suport tècnic de l'editorial, o el seu contacte principal si no hi ha contacte de suport tècnic."
+
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "En ús ara: {$email}"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "País"
+
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "Deixeu-ho en blanc per utilitzar el país de l'editorial."
+
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "Rols"
+
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "El rol d'autor de l'editorial que rep cada contribuïdor/a de la tramesa ràpida."

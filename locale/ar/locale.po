@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: OJSBR\n"
+"Language-Team: OJSBR\n"
+"Language: ar\n"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.displayName"
+msgstr "الإرسال السريع لـ OMP"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.description"
+msgstr "يضيف الكتاب ومساهميه وفصوله مع ملفات PDF الخاصة بها وصيغه النهائية في صفحة واحدة، وينشره مع اعتماد جميع الملفات وإتاحتها بالوصول المفتوح. في الكتاب المحرَّر، لا تذكر البيانات الوصفية للكتاب إلا محرري الجزء، ويذكر كل فصل مؤلفيه."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.menu"
+msgstr "الإرسال السريع"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pageTitle"
+msgstr "الإرسال السريع لكتاب"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.intro"
+msgstr "املأ بيانات الكتاب ومساهميه وفصوله وصيغه النهائية، ثم احفظ. ينتقل الكتاب مباشرة إلى مرحلة الإنتاج مع اعتماد جميع الصيغ والملفات وإتاحتها بالوصول المفتوح، ويُنشر ما لم تُلغِ التحديد أدناه. يمكن تغيير كل شيء لاحقًا في سير العمل."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.book"
+msgstr "الكتاب"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType"
+msgstr "نوع الكتاب"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.editedVolume"
+msgstr "كتاب محرَّر: محررو الجزء ومؤلفو الفصول"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.workType.authoredWork"
+msgstr "دراسة (مونوغراف): الكتاب كله لنفس المؤلفين"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.series"
+msgstr "السلسلة"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesNone"
+msgstr "بدون سلسلة"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.seriesPosition"
+msgstr "الموضع في السلسلة"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.locale"
+msgstr "لغة الكتاب"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.keywordsDescription"
+msgstr "افصل بين الكلمات المفتاحية بفواصل."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.cover"
+msgstr "الغلاف"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.datePublished"
+msgstr "تاريخ النشر"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributors"
+msgstr "محررو الجزء والمؤلفون"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.contributorsDescription"
+msgstr "الاسم واسم العائلة فقط مطلوبان: يُملأ البريد الإلكتروني وبلد دار النشر تلقائيًا، ويمكن تغييرهما في مزيد من التفاصيل. في الكتاب المحرَّر، لا يُذكر في البيانات الوصفية للكتاب إلا محررو الجزء؛ ويُذكر مؤلفو الفصول في فصولهم."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addContributor"
+msgstr "إضافة مساهم"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role"
+msgstr "الدور"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.volumeEditor"
+msgstr "محرر الجزء"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.chapterAuthor"
+msgstr "مؤلف الفصل"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.role.author"
+msgstr "المؤلف"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moreDetails"
+msgstr "مزيد من التفاصيل"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveUp"
+msgstr "نقل لأعلى"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.moveDown"
+msgstr "نقل لأسفل"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapters"
+msgstr "الفصول"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chaptersDescription"
+msgstr "يحصل كل فصل على صفحته الخاصة، مع مؤلفيه وملف PDF الخاص به. يُنشر ملف PDF الخاص بالفصل في الصيغة المسماة PDF أدناه، والتي تُنشأ تلقائيًا إن لم تكن موجودة."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addChapter"
+msgstr "إضافة فصل"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapter"
+msgstr "الفصل {$number}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterAuthors"
+msgstr "مؤلفو الفصل"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.noContributorsYet"
+msgstr "أضف المساهمين أعلاه لاختيار مؤلفي الفصل."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.pages"
+msgstr "الصفحات"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.chapterFile"
+msgstr "ملف PDF النهائي للفصل"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formats"
+msgstr "الصيغ النهائية للكتاب"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatsDescription"
+msgstr "صيغة واحدة لكل ملف للكتاب كاملًا (PDF، EPUB…)، معتمدة ومتاحة بالوصول المفتوح."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.addFormat"
+msgstr "إضافة صيغة"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatName"
+msgstr "اسم الصيغة"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.isbn"
+msgstr "ISBN-13"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.formatFile"
+msgstr "ملف الكتاب كاملًا"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNow"
+msgstr "النشر الآن"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.publishNowDescription"
+msgstr "عند إلغاء التحديد، يُحفظ الكتاب في مرحلة الإنتاج، جاهزًا للنشر من سير العمل."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.save"
+msgstr "حفظ الكتاب"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saving"
+msgstr "جارٍ الحفظ…"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.saved"
+msgstr "تم نشر الكتاب."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.savedUnpublished"
+msgstr "تم حفظ الكتاب في مرحلة الإنتاج."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewBook"
+msgstr "عرض الكتاب في الكتالوج"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.viewWorkflow"
+msgstr "فتح سير العمل"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.another"
+msgstr "إرسال سريع آخر"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.errorsFound"
+msgstr "بعض الحقول تحتاج إلى تصحيح."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.save"
+msgstr "تعذّر حفظ الكتاب، ولم يتبقَّ منه شيء. حاول مرة أخرى، أو أبلغ الدعم الفني لدار النشر."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.series"
+msgstr "اختر سلسلة من سلاسل دار النشر هذه."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.date"
+msgstr "أدخل التاريخ بالصيغة YYYY-MM-DD."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.file"
+msgstr "لم يُعثر على الملف. ارفعه مرة أخرى."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.image"
+msgstr "يجب أن يكون الغلاف صورة."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noContributors"
+msgstr "أضف مساهمًا واحدًا على الأقل."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noUserGroup"
+msgstr "ليس لدى دار النشر دور مؤلف لهذا المساهم. تحقق من إعدادات البرنامج الإضافي."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noEmail"
+msgstr "أدخل عنوان بريد إلكتروني: ليس لدى دار النشر عنوان لملئه."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.country"
+msgstr "اختر بلدًا من القائمة."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.orcid"
+msgstr "هذا ليس ORCID iD صالحًا."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.contributorKey"
+msgstr "أرسلت الصفحة مساهمًا مرتين. أعد تحميلها وحاول مرة أخرى."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noVolumeEditor"
+msgstr "يحتاج الكتاب المحرَّر إلى محرر جزء واحد على الأقل."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.chapterAuthor"
+msgstr "أحد مؤلفي الفصل ليس من بين المساهمين."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.pdf"
+msgstr "يجب أن يكون ملف الفصل بصيغة PDF."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.formatName"
+msgstr "صيغتان لهما الاسم نفسه."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.isbn"
+msgstr "هذا ليس ISBN-13 صالحًا."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.error.noFile"
+msgstr "ارفع ملف الكتاب كاملًا، أو احذف هذه الصيغة."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaults"
+msgstr "ما يحصل عليه المساهم الجديد"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail"
+msgstr "عنوان البريد الإلكتروني"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultEmail.description"
+msgstr "اتركه فارغًا لاستخدام عنوان الاتصال للدعم الفني لدار النشر، أو عنوان الاتصال الرئيسي عند عدم وجود عنوان اتصال للدعم الفني."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.emailInUse"
+msgstr "المستخدم الآن: {$email}"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry"
+msgstr "البلد"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.defaultCountry.description"
+msgstr "اتركه فارغًا لاستخدام بلد دار النشر."
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups"
+msgstr "الأدوار"
+
+#, fuzzy
+msgid "plugins.generic.quickSubmitOmp.settings.groups.description"
+msgstr "دور المؤلف في دار النشر الذي يحصل عليه كل مساهم في الإرسال السريع."
