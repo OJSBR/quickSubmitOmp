@@ -131,6 +131,9 @@ describe('Quick Submission for OMP', function() {
 			});
 		});
 		cy.wait('@temporaryFile').its('response.statusCode').should('eq', 200);
+		// The answer reaches the test before the page takes it: the field shows its file once
+		// the form holds it, and only then the book can be saved with it.
+		cy.get('[id="quickSubmitOmp-' + name + '-control"] .pkpFormField--upload__preview', {timeout: 30000}).should('be.visible');
 	};
 
 	const metaTags = (html, name) => {
