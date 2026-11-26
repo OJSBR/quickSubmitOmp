@@ -1,10 +1,10 @@
 # Quick Submission for OMP
 
 [![OMP](https://img.shields.io/badge/OMP-3.5-brightgreen)](https://pkp.sfu.ca/omp/)
-[![Version](https://img.shields.io/badge/version-1.0.0.0-blue)](version.xml)
+[![Version](https://img.shields.io/badge/version-5.0.0.0-blue)](version.xml)
 [![License](https://img.shields.io/badge/license-GPL--3.0-lightgrey)](LICENSE)
 
-**⬇️ Install package:** [OMP 3.5](https://github.com/OJSBR/quickSubmitOmp/releases/download/1.0.0.0/quickSubmitOmp-1.0.0.0.tar.gz) — or browse all [Releases](../../releases).
+**⬇️ Install package:** [OMP 3.5](https://github.com/OJSBR/quickSubmitOmp/releases/download/5.0.0.0/quickSubmitOmp-5.0.0.0.tar.gz) — or browse all [Releases](../../releases).
 
 A generic plugin for **Open Monograph Press (OMP) 3.5** that adds a whole book on one page —
 the book, its contributors, its chapters with the PDF of each one and the final formats of the
@@ -18,7 +18,7 @@ made for presses that publish books already edited and typeset, above all **edit
 
 | Application | Branch | Plugin release |
 |-------------|--------|----------------|
-| OMP 3.5.x   | [`stable-3_5_0`](../../tree/stable-3_5_0) *(default)* | 1.0.0.0 |
+| OMP 3.5.x   | [`stable-3_5_0`](../../tree/stable-3_5_0) *(default)* | 5.0.0.0 |
 
 Requires PHP 8.2 or later.
 
@@ -148,7 +148,7 @@ do livro — e publica de uma vez, com todos os formatos e arquivos aprovados e 
 Feito para editoras que publicam livros já editados e diagramados, sobretudo **livros
 organizados**.
 
-**⬇️ Pacote de instalação:** [OMP 3.5](https://github.com/OJSBR/quickSubmitOmp/releases/download/1.0.0.0/quickSubmitOmp-1.0.0.0.tar.gz).
+**⬇️ Pacote de instalação:** [OMP 3.5](https://github.com/OJSBR/quickSubmitOmp/releases/download/5.0.0.0/quickSubmitOmp-5.0.0.0.tar.gz).
 
 > **Desenvolvido e mantido pela [OJSBR](https://ojsbr.com).** Veja a seção
 > [Créditos e autoria](#créditos-e-autoria) abaixo.
@@ -157,7 +157,7 @@ organizados**.
 
 | Aplicação | Branch | Release do plugin |
 |-----------|--------|-------------------|
-| OMP 3.5.x | [`stable-3_5_0`](../../tree/stable-3_5_0) *(padrão)* | 1.0.0.0 |
+| OMP 3.5.x | [`stable-3_5_0`](../../tree/stable-3_5_0) *(padrão)* | 5.0.0.0 |
 
 Requer PHP 8.2 ou mais novo.
 
